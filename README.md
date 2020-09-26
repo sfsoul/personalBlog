@@ -6,3 +6,8 @@
 
 ### Flutter
 - [Flutter包大小治理上的探索与实践](https://mp.weixin.qq.com/s/adC-YUWd-xuUlzeAPHzJoQ)
+
+
+
+### Others
+- [掘金翻译计划](https://github.com/xitu/gold-miner)
