@@ -1,7 +1,7 @@
 ## 好文章
 ### React
 - [React 架构的演变 - 从同步到异步](https://juejin.im/post/6875681311500025869)
-- []()
+- [基于React-hook实现的简易前端国际化方案](https://juejin.im/post/6876242244265836552)
 
 
 ### Flutter
