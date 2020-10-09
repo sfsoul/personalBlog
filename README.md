@@ -9,5 +9,9 @@
 
 
 
+### GraphQL
+- [GraphQL 入门](https://graphql.cn/learn/)
+
+
 ### Others
 - [掘金翻译计划](https://github.com/xitu/gold-miner)
