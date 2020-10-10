@@ -15,6 +15,7 @@
 
 ### Others
 - [掘金翻译计划](https://github.com/xitu/gold-miner)
+- [微信扫码登录背后的实现原理](https://juejin.im/post/6881597417637511181)
 
 
 ### Questions
