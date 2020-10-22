@@ -2,7 +2,7 @@
 ### React
 - [React 架构的演变 - 从同步到异步](https://juejin.im/post/6875681311500025869)
 - [基于React-hook实现的简易前端国际化方案](https://juejin.im/post/6876242244265836552)
-
+- [ReactJS: Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)
 
 ### Flutter
 - [Flutter包大小治理上的探索与实践](https://mp.weixin.qq.com/s/adC-YUWd-xuUlzeAPHzJoQ)
